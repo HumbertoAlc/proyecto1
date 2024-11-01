@@ -10,3 +10,7 @@
 ## entorno virtual
 # es un espacio completa,ente vacio para trabajar en un proyecto de forma que instalemos dentro de este espacio todas las librerias
 ## que vamos a usar en el mismo
+
+## SIEMPRE QUE SE VAYA TRABAJAR EN UN PROYECTO SE TIENE QUE ACTIVAR EL ENTORNO VIRTUAL
+
+## PARA CUALQUIER PROYECTO QUE SE TRABAJE CON EL LENGUAJE PYTHON SE DEBE ACTIVAR ESTE TIPO DE ENTORNO VIRTUAL
